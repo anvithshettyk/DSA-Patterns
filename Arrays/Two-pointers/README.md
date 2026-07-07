@@ -49,9 +49,10 @@ Use this pattern when:
 
 # 📝 Problems Solved
 
-| Problem | Difficulty | Status |
-|----------|------------|--------|
-| 15. 3Sum | Medium | ✅ |
+| Problem | Difficulty  | Status |
+|----------|------------|-----   |
+| 15. 3Sum | Medium     | ✅    |
+| 18. 4Sum | Medium     | ✅     |
 
 ---
 
