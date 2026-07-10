@@ -54,6 +54,7 @@ Use this pattern when:
 | 15. 3Sum | Medium     | ✅    |
 | 18. 4Sum | Medium     | ✅     |
 | 88. Merge Sorted Array | Easy | ✅ |
+| 977. Squares of a Sorted Array | Easy | ✅ |
 
 ---
 
