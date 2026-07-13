@@ -33,9 +33,11 @@ Binary Search is an efficient searching algorithm that works on **sorted arrays*
 
 ## 📚 Recommended Problems
 
-- 35. Search Insert Position
-- 34. Find First and Last Position of Element in Sorted Array
-- 33. Search in Rotated Sorted Array
-- 153. Find Minimum in Rotated Sorted Array
-- 81. Search in Rotated Sorted Array II
-- 540. Single Element in a Sorted Array
+| LeetCode No. | Problem |
+|--------------|---------|
+| 35 | Search Insert Position |
+| 34 | Find First and Last Position of Element in Sorted Array |
+| 33 | Search in Rotated Sorted Array |
+| 153 | Find Minimum in Rotated Sorted Array |
+| 81 | Search in Rotated Sorted Array II |
+| 540 | Single Element in a Sorted Array |
