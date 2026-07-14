@@ -25,10 +25,8 @@ Binary Search is an efficient searching algorithm that works on **sorted arrays*
 
 ## 📄 Problems Solved
 
-| Problem | Difficulty | Status |
-|---------|------------|--------|
 | 704. Binary Search | Easy | ✅ |
-
+| 35. Search Insert Position | Easy | ✅ |
 ---
 
 ## 📚 Recommended Problems
