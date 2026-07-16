@@ -28,6 +28,7 @@ Binary Search is an efficient searching algorithm that works on **sorted arrays*
 | 704. Binary Search | Easy | ✅ |
 | 35. Search Insert Position | Easy | ✅ |
 | 34. Find First and Last Position of Element in Sorted Array | Medium | ✅ |
+| 33. Search in Rotated Sorted Array | Medium | ✅ |
 ---
 
 ## 📚 Recommended Problems
