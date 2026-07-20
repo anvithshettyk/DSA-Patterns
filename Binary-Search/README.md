@@ -30,6 +30,7 @@ Binary Search is an efficient searching algorithm that works on **sorted arrays*
 | 34. Find First and Last Position of Element in Sorted Array | Medium | ✅ |
 | 33. Search in Rotated Sorted Array | Medium | ✅ |
 | 153. Find Minimum in Rotated Sorted Array | Medium | ✅ |
+| 540. Single Element in a Sorted Array | Medium | ✅ |
 ---
 
 ## 📚 Recommended Problems
