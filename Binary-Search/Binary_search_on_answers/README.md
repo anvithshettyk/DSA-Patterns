@@ -37,6 +37,7 @@ It is applicable when:
 | Problem | Difficulty | Status |
 |---------|-----------|--------|
 | 1482. Minimum Number of Days to Make m Bouquets | Medium | ✅ |
+| 1011. Capacity To Ship Packages Within D Days | Medium | ✅ |
 
 ---
 

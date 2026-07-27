@@ -32,6 +32,7 @@ Binary Search is an efficient searching algorithm that works on **sorted arrays*
 | 153. Find Minimum in Rotated Sorted Array | Medium | ✅ |
 | 540. Single Element in a Sorted Array | Medium | ✅ |
 | 162. Find Peak Element | Medium | ✅ |
+| 1539. Kth Missing Positive Number | Easy | ✅ |
 ---
 
 ## 📚 Recommended Problems
