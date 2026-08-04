@@ -26,7 +26,7 @@ Complexity depends on the specific algorithm being used.
 | Problem | Difficulty | Status |
 |---------|------------|--------|
 | 1021. Remove Outermost Parentheses | Easy | ✅ |
-
+| 151. Reverse Words in a String | Medium | ✅ |
 ---
 
 ## 📚 Recommended Problems
