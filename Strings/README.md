@@ -27,6 +27,7 @@ Complexity depends on the specific algorithm being used.
 |---------|------------|--------|
 | 1021. Remove Outermost Parentheses | Easy | ✅ |
 | 151. Reverse Words in a String | Medium | ✅ |
+| 1903. Largest Odd Number in String | Easy | ✅ |
 ---
 
 ## 📚 Recommended Problems
